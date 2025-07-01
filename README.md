@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 
 Hey there! 👋 I'm **Pablo**, a passionate and driven **Data Science Engineering** student with a deep curiosity for the world of **finance** and **machine learning**. My mission is to combine my knowledge of data science with my love for the financial markets to learn.
 
